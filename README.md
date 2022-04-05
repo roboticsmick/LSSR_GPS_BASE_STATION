@@ -1,6 +1,6 @@
 # LSR_GPS_BASE_STATION
 
-A portable GPS tracking base station that uses GPS and compass data to track and find HPR rockets via LORA communication.
+A portable field rocket tracking base station that uses GPS and compass data to track and retrieve HPR rockets via LORA communication.
 
 ![image](https://user-images.githubusercontent.com/70121687/161655242-17823f1e-89f4-4d46-a6a2-5ff1fd24670a.png)
 
