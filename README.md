@@ -15,4 +15,8 @@ Hardware:
 * 7.4V LIPO WITH XT30 CONNECTION
 * C++ (platformIO)
 
-Software will be shared, but is currently a work in progress. 
+Software will be open-source, but is currently a work in progress. 
+
+Case design will also be shared. 
+
+All PCB design and modelling was done using Fusion360. 
