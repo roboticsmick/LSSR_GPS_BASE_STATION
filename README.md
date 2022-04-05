@@ -8,15 +8,17 @@ Hardware:
 
 * TEENSY 4.1
 * EBYTE LORA E22-900T22D (set to 915Mhz for Australian usage)
-* UBLOX NEO_6M GPS
-* MPM3610_5V_1A2
-* GY271_QMC5883_COMPASS
-* OLED_LCD_128_64
+* UBLOX NEO 6M GPS
+* MPM3610 5V 1.2A
+* GY271 QMC5883 COMPASS
+* OLED LCD 128x64
 * 7.4V LIPO WITH XT30 CONNECTION
 * C++ (platformIO)
 
-Software will be open-source, but is currently a work in progress. 
+Software will be open-source, but is currently a work in progress. I am hoping I can implment the RadioLib library (https://github.com/jgromes/RadioLib) with the Teensy.
 
-Case design will also be shared. 
+Case design will also be shared, but needs a few more refinements to better secure the antenna bracket.
 
-All PCB design and modelling was done using Fusion360. 
+All PCB design and modelling was done using Fusion360. The board and schematic files were saved for Eagle 9.X compatibility in the hopes that would make the files more accessible?
+
+I'm just starting my 4th year of Engineering at Queensland University of Technology, Australia. Majoring in Mechatronics with the goal of working on PCB design for satellites. 
