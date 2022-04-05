@@ -7,9 +7,12 @@ A portable field rocket tracking base station that uses GPS and compass data to 
 Hardware:
 
 * TEENSY 4.1
-* EBYTE LORA E22-900T22D 
+* EBYTE LORA E22-900T22D (set to 915Mhz for Australian usage)
 * UBLOX NEO_6M GPS
 * MPM3610_5V_1A2
 * GY271_QMC5883_COMPASS
 * OLED_LCD_128_64
-* 7.4V LIPO WITH XT30PW-M CONNECTOR
+* 7.4V LIPO WITH XT30 CONNECTION
+* C++ (platformIO)
+
+Software will be shared, but is currently a work in progress. 
