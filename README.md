@@ -1,8 +1,12 @@
 # LSR_GPS_BASE_STATION
 
-A portable field rocket tracking base station that uses GPS and compass data to track and retrieve HPR rockets via LORA communication.
+A low cost portable field rocket tracking base station that uses GPS and compass data to track and retrieve HPR rockets via LORA communication with a 7km range.
 
-![image](https://user-images.githubusercontent.com/70121687/161655242-17823f1e-89f4-4d46-a6a2-5ff1fd24670a.png)
+This successfully tracked and monitored my Level 1 HPR certificate flight.
+
+![LSR_GPS_base_station](https://user-images.githubusercontent.com/70121687/173560079-b2a9d8a2-1a8f-4d05-87ab-7fa69dd9dfa3.png)
+
+![LSR_GPS_base_station 2](https://user-images.githubusercontent.com/70121687/173560171-f3615834-20f0-468d-95e4-4fe456b43204.png)
 
 Hardware:
 
@@ -15,10 +19,8 @@ Hardware:
 * 7.4V LIPO WITH XT30 CONNECTION
 * C++ (platformIO)
 
-Software will be open-source, but is currently a work in progress. I am hoping I can implment the RadioLib library (https://github.com/jgromes/RadioLib) with the Teensy.
+All PCB design and modelling was done using Fusion360.
 
-Case design will also be shared, but needs a few more refinements to better secure the antenna bracket.
+PCB boards were printed by JLCPCB.
 
-All PCB design and modelling was done using Fusion360. The board and schematic files were saved for Eagle 9.X compatibility in the hopes that would make the files more accessible?
-
-I'm just starting my 4th year of Engineering at Queensland University of Technology, Australia. Majoring in Mechatronics with the goal of working on PCB design for satellites. 
+I'm starting my 4th year of Engineering at Queensland University of Technology, Australia. Majoring in Mechatronics with the goal of being an astro roboticist, working on designs for satellites. 
