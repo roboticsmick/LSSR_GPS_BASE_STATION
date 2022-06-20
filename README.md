@@ -18,8 +18,10 @@ Parts list:
 
 Version 2 will use a Raspberry Pi Pico RP2040 to bring the overall costs of the board down.
 
-PCB design was done using Fusion 360 electronics. Case design and animation were also done using Fusion 360.
+PCB design was done using Fusion 360 electronics. 
 
 PCB printed using JLCPCB.
+
+Case design is lasercut perspex and 3D printed. Modelled using Fusion 360.
 
 I'm starting my 4th year of Engineering at Queensland University of Technology, Australia. Majoring in Mechatronics with the goal of being an astro roboticist, working on designs for satellites. 
