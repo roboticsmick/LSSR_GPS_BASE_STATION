@@ -24,4 +24,20 @@ PCB printed using JLCPCB.
 
 Case design is lasercut perspex and 3D printed. Modelled using Fusion 360.
 
-I'm starting my 4th year of Engineering at Queensland University of Technology, Australia. Majoring in Mechatronics with the goal of being an astro roboticist, working on designs for satellites. 
+Instructions:
+When recording GPS coodinates for launch data. 
+1. Power using a USB only (do not turn on the toggle switch).
+2. Connect to PC using USB. 
+3. Open putty. The serial monitor in Arduino does not allow saving data and has a limited number of rows. 
+4. Base stations should automaticaly pick up the GPS tracker when turned on.
+5. The base station will start displaying GPS coordinates on the LCD when it has a fix.
+6. SIV = Satellites in view. At least 3 should be in view to get valid data. 
+7. When the rocket has landed, save the GPS coordinate data from putty as a CSV. 
+8. Copy the last row of the saved data and paste it into Googlemaps. The rocket coordinates should now be available.
+
+If the rocket coordinates were lost:
+1. Unplug the USB, and turn on the GPS base station using the toggle switch.
+2. Head in the direction of the last known coordinates.
+3. When new coordinates are recieved by the base station, the GPS base station should update on the LCD when the rocket is detected. 
+4. If you cannot see the rocket, enter the updated coordinates into your phones googlemaps, and you should be able to work out the location in the field.
+
