@@ -1,4 +1,4 @@
-# LSR_GPS_BASE_STATION
+# LSSR_GPS_BASE_STATION
 
 A portable, low cost GPS Rocket tracking base station. Uses a Teensy 4.1 and Ebytes LORA module to track and display the current GPS coordinates for a HPR rocket launch. Estimated range is 7km.
 
